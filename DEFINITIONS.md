@@ -6,12 +6,13 @@ In this file you will see listed everything CfpCSS does and its line:
 
 - Variables => Line 10
 - Main stuff => Line 22
-- Buttons => Line 37
-  - Colors => Line 42
-  - Types => Line 76
-  - Main CSS => Line 101
-- Class Utils => Line 111
-- Checkbox => Line 137
+- Colors => Line 37
+- Buttons => Line 97
+  - Colors => Line 101
+  - Types => Line 135
+  - Main CSS => Line 160
+- Class Utils => Line 170
+- Checkbox => Line 196
 
 ## JS
 

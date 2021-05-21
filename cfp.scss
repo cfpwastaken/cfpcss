@@ -34,9 +34,68 @@ body {
 }
 
 //
-// Buttons
+// Colors
 //
 
+.color-red {
+    color: $red;
+}
+
+.color-blue {
+    color: $blue;
+}
+
+.color-yellow {
+    color: $yellow;
+}
+
+.color-white {
+    color: $white;
+}
+
+.color-turquoise {
+    color: $turquoise;
+}
+
+.color-green {
+    color: $green;
+}
+
+.color-dark {
+    color: $dark;
+}
+
+.bg-red {
+    background-color: $red;
+}
+
+.bg-blue {
+    background-color: $blue;
+}
+
+.bg-yellow {
+    background-color: $yellow;
+}
+
+.bg-white {
+    background-color: $white;
+}
+
+.bg-turquoise {
+    background-color: $turquoise;
+}
+
+.bg-green {
+    background-color: $green;
+}
+
+.bg-dark {
+    background-color: $dark;
+}
+
+//
+// Buttons
+//
 
 button {
     // Colors
