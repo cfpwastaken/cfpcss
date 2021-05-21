@@ -224,3 +224,18 @@ label {
         background-color: $green;
     }
 }
+
+//
+// Forms
+//
+
+input[type="text"],
+textarea {
+    border-style: solid;
+    border-color: darken($dark, 2);
+    border-radius: 49px;
+    height: 27px;
+    background-color: darken($dark, 5);
+    padding-left: 8px;
+    color: white;
+}
