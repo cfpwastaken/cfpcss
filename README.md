@@ -8,7 +8,7 @@ Several quick start options are available:
 
 - [Download](https://example.com)
 - Clone the repo: `git clone https://github.com/cfpwastaken/cfpcss`
-- Install with [pm](https://example.com): `pm i cfpcss`
+- Install with [pm](https://github.com/cfpwastaken/pm): `pm i cfpcss`
 
 ## Compiling
 
