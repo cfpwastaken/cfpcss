@@ -132,3 +132,36 @@ button {
     animation-name: fadeIn;
     animation-duration: 1.5s;
 }
+
+//
+// CheckBox
+//
+
+input[type="checkbox"] {
+    cursor: pointer;
+    opacity: 0;
+    position: absolute; /* Sorry */
+    &:hover + label::before {
+        background-color: $green;
+    }
+
+    &:checked + label::before {
+        background-color: darken($green, 10);
+    }
+}
+
+label {
+    cursor: pointer;
+    display: flex;
+    &::before {
+        content: '';
+        width: 1em;
+        height: 1em;
+        border-radius: .15em;
+        margin-right: .5em;;
+        border: .05em solid $white;
+    }
+    &:hover::before {
+        background-color: $green;
+    }
+}

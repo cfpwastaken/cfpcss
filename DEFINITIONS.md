@@ -11,6 +11,7 @@ In this file you will see listed everything CfpCSS does and its line:
   - Types => Line 76
   - Main CSS => Line 101
 - Class Utils => Line 111
+- Checkbox => Line 137
 
 ## JS
 
