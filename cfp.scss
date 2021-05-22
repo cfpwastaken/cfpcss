@@ -203,15 +203,15 @@ button {
     70% { transform: translate(0%, -10%)}
 }
 
-.shrug::before {
+.shrug::after {
     content: '¯\_(ツ)_/¯';
 }
 
-.tableflip::before {
+.tableflip::after {
     content: '(╯°□°）╯︵ ┻━┻';
 }
 
-.unflip::before {
+.unflip::after {
     content: '┬─┬ ノ( ゜-゜ノ)';
 }
 
