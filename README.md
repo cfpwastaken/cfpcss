@@ -6,7 +6,7 @@ CfpCSS is a framework for CSS and JS for easier web development.
 
 Several quick start options are available:
 
-- [Download](https://example.com)
+- [Use CDN or download](https://cfpwastaken.github.io/cfpcss/cfpcss.min.css)
 - Clone the repo: `git clone https://github.com/cfpwastaken/cfpcss`
 - Install with [pm](https://github.com/cfpwastaken/pm): `pm i cfpcss`
 
