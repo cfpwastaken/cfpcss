@@ -205,6 +205,10 @@ button.btn-round {
   color: white;
 }
 
+.unimportant {
+  color: #acacac;
+}
+
 input[type="checkbox"] {
   cursor: pointer;
   opacity: 0;

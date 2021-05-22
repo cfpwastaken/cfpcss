@@ -5,15 +5,15 @@ In this file you will see listed everything CfpCSS does and its line:
 ## CSS
 
 - Variables => Line 10
-- Main stuff => Line 22
-- Colors => Line 37
-- Buttons => Line 97
-  - Colors => Line 101
-  - Types => Line 135
-  - Main CSS => Line 160
-- Class Utils => Line 170
-- Checkbox => Line 233
-- Forms => Line 266
+- Main stuff => Line 23
+- Colors => Line 38
+- Buttons => Line 98
+  - Colors => Line 102
+  - Types => Line 136
+  - Main CSS => Line 161
+- Class Utils => Line 171
+- Checkbox => Line 238
+- Forms => Line 271
 
 ## JS
 
