@@ -203,6 +203,18 @@ button {
     70% { transform: translate(0%, -10%)}
 }
 
+.shrug::before {
+    content: '¯\_(ツ)_/¯';
+}
+
+.tableflip::before {
+    content: '(╯°□°）╯︵ ┻━┻';
+}
+
+.unflip::before {
+    content: '┬─┬ ノ( ゜-゜ノ)';
+}
+
 //
 // CheckBox
 //
