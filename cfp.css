@@ -191,6 +191,20 @@ button.btn-round {
   content: '┬─┬ ノ( ゜-゜ノ)';
 }
 
+.spoiler::before {
+  content: 'Spoiler (hover to show): ';
+  color: white;
+}
+
+.spoiler {
+  background-color: black;
+  color: black;
+}
+
+.spoiler:hover {
+  color: white;
+}
+
 input[type="checkbox"] {
   cursor: pointer;
   opacity: 0;
