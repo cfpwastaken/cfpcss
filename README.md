@@ -8,7 +8,7 @@ Several quick start options are available:
 
 - [Use CDN or download](https://cfpwastaken.github.io/cfpcss/cfp.min.css)
 - Clone the repo: `git clone https://github.com/cfpwastaken/cfpcss`
-- Install with [pm](https://github.com/cfpwastaken/pm): `pm i cfpcss`
+- Install with [pm](https://github.com/cfpwastaken/pm): `pm savehere cfpcss`
 
 ## Compiling
 
